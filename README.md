@@ -9,7 +9,7 @@ The proposed model consists of three main components:
 3. soft-attention layer: to better extract meaningful temporal patterns and long-term dependencies among the data
 
 ## Data
-a dataset was collected by Longterm traffic flow forecasting using a hybrid CNN-BiLSTM model paper.
+a dataset was collected by <a href="https://www.sciencedirect.com/science/article/pii/S0952197623002257">Long term traffic flow forecasting using a hybrid CNN-BiLSTM model</a> paper.
 This dataset includes data from four traffic stations located in Madrid.
 1.  Paseo de la Castellana (P/Castellana) is a major street in the city center, providing data in the north-tosouth direction.
 2.  Calle Arturo Soria(C/Arturo Soria) is a long street in the east of the city, serving the north-to-south route of Madrid.
