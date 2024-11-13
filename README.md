@@ -28,3 +28,5 @@ The variables included in these four datasets are as follows:
 
 
 ## Results
+In the table below, it can be seen that the proposed model has been able to improve the evaluation criteria of RMSE, MAE, Accuracy compared to the basic models.
+![alt text](http://url/to/img.png)
