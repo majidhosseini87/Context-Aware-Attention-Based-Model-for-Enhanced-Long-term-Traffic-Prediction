@@ -1,6 +1,8 @@
 # Context-Aware Attention-Based Model for Enhanced Long term Traffic Prediction on Non-Graph-Structured Data
 
 This is the tensorflow implementation of Context-Aware Attention-Based Model for Enhanced Long term Traffic Prediction on Non-Graph-Structured Data paper.
+* You can access the dataset in the Datasets folder.
+* 
 
 ## Proposed method
 The proposed model consists of three main components: 
