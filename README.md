@@ -12,7 +12,7 @@ The proposed model consists of three main components:
 a dataset was collected by Longterm traffic flow forecasting using a hybrid CNN-BiLSTM model.
 This dataset includes data from four traffic stations located in Madrid.
 1.  Paseo de la Castellana (P/Castellana) is a major street in the city center, providing data in the north-tosouth direction.
-2.  Paseo de la Castellana (P/Castellana) is a long street in the east of the city, serving the north-to-south route of Madrid.
+2.  Calle Arturo Soria(C/Arturo Soria) is a long street in the east of the city, serving the north-to-south route of Madrid.
 3. Paseo de Santa María de la Cabeza (P/Sta María) is a key route connecting the city center to the south
 4. Gran Vía (C/Gran Vía) is a central shopping and tourist street, providing data in the west-to-east direction.
 
