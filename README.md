@@ -25,7 +25,7 @@ The variables included in these four datasets are as follows:
 * maximum daily temperature
 * daily rainfall
 * the number of vehicles on adjacent streets (for each main street, two adjacent streets were considered)
-* the number of vehicles on the target street.
+* the number of vehicles on the target street..
 
 
 
